@@ -1,0 +1,1 @@
+9999999999{"name": "telebot", "version": "0.0.5", "summary": "A Telegram bot library, with simple route decorators.", "platform": null, "requires_dist": ["pyTelegramBotAPI", "requests"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}
